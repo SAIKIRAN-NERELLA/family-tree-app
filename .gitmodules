@@ -1,6 +1,0 @@
-[submodule "family-tree-backend"]
-	path = family-tree-backend
-	url = https://github.com/SAIKIRAN-NERELLA/family-tree-app
-[submodule "family-tree-frontend"]
-	path = family-tree-frontend
-	url = https://github.com/SAIKIRAN-NERELLA/family-tree-app
